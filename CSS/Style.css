@@ -1,7 +1,7 @@
 body{
 
     border: 10px ridge hsl(0, 0%, 100%);
-    background-image: url(/Imagenes/Tri.jpg);
+    background-image: url(../Imagenes/Tri.jpg);
     
 }
 

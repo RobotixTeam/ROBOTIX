@@ -1,6 +1,6 @@
 body{
     border: 9px ridge white;
-    background-image: url(/Imagenes/Ultimo.jpg);
+    background-image: url(../Imagenes/Ultimo.jpg);
 }
 img{
     text-align: center;
